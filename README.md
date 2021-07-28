@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nalomsrg
-- 👀 I’m interested in Data Analyst / Data Science
-- 🌱 I’m currently learning Data Sciece
+- 👀 I’m interested in Data Analyst / Data Scientist
+- 🌱 I’m currently learning Data Science
 - 📫 How to reach me? you can contact me on email : siregarnalom@gmail.com
 
 <!---
